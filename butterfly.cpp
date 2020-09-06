@@ -3,7 +3,7 @@ using namespace std;
 struct Butterfly{
 	int a[8];
 };
-main(){
+int main(){
 	struct Butterfly b;
 	cout << "Enter number : ";
     cin >> b.a[0];//row
